@@ -1,0 +1,19 @@
+{
+  "name": "tolist_",
+  "version": "1.0.0",
+  "description": "todolist",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dardangjoka/tolist_.git"
+  },
+  "author": "Dardan Gjoka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dardangjoka/tolist_/issues"
+  },
+  "homepage": "https://github.com/dardangjoka/tolist_#readme"
+}
